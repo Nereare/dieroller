@@ -44,6 +44,7 @@ Thumbs.db
 /pkg/
 /spec/reports/
 /spec/examples.txt
+/test/
 /test/tmp/
 /test/version_tmp/
 /tmp/
